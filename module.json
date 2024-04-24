@@ -26,7 +26,7 @@
         {
           "name": "actors",
           "label": "Dawn of Defiance",
-          "path": "/packs/actors.db",
+          "path": "/data/actors.db",
           "entity": "Actor",
           "type": "Actor",
           "system": "sw5e"
@@ -34,14 +34,14 @@
         {
           "name": "cards",
           "label": "Dawn of Defiance",
-          "path": "/packs/cards.db",
+          "path": "/data/cards.db",
           "entity": "Cards",
           "type": "Cards"
         },
         {
           "name": "items",
           "label": "Dawn of Defiance",
-          "path": "/packs/items.db",
+          "path": "/data/items.db",
           "entity": "Item",
           "type": "Item",
           "system": "sw5e"
@@ -49,35 +49,35 @@
         {
           "name": "journals",
           "label": "Dawn of Defiance",
-          "path": "/packs/journals.db",
+          "path": "/data/journals.db",
           "entity": "JournalEntry",
           "type": "JournalEntry"
         },
         {
           "name": "macros",
           "label": "Dawn of Defiance",
-          "path": "/packs/macros.db",
+          "path": "/data/macros.db",
           "entity": "Macro",
           "type": "Macro"
         },
         {
           "name": "maps",
           "label": "Dawn of Defiance",
-          "path": "/packs/scenes.db",
+          "path": "/data/scenes.db",
           "entity": "Scene",
           "type": "Scene"
         },
         {
           "name": "playlists",
           "label": "Dawn of Defiance",
-          "path": "/packs/playlists.db",
+          "path": "/data/playlists.db",
           "entity": "Playlist",
           "type": "Playlist"
         },
         {
           "name": "rolltables",
           "label": "Dawn of Defiance",
-          "path": "/packs/tables.db",
+          "path": "/data/tables.db",
           "entity": "RollTable",
           "type": "RollTable"
         }
