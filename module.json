@@ -1,0 +1,27 @@
+{
+	"id": "dawnofdefiance",
+	"title": "Dawn of Defiance",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11"
+	},
+	"description": "test",
+	"authors": [
+		{
+			"name": "Fantasy Flight Games"
+		}
+	],
+	"systems": [
+		{
+			"id": "sw5e",
+			"type": "system",
+			"compatibility": {
+				"minimum": "2.3.1.2.6.1",
+				"verified": "2.3.1.2.6.1"
+			}
+		}
+	],
+	"manifest": "https://github.com/Jvovillia/dawnofdefiance/blob/4e4685eec248b404e882842a4da53756ffed1644/module.json",
+	"download": "https://wellnessfamilycounseling.com/wp-content/uploads/2024/04/dawnofdefiance.zip"
+}
