@@ -22,6 +22,66 @@
             }
         }
     ],
+    "packs": [
+        {
+          "name": "actors",
+          "label": "Dawn of Defiance",
+          "path": "/packs/actors.db",
+          "entity": "Actor",
+          "type": "Actor",
+          "system": "sw5e"
+        },
+        {
+          "name": "cards",
+          "label": "Dawn of Defiance",
+          "path": "/packs/cards.db",
+          "entity": "Cards",
+          "type": "Cards"
+        },
+        {
+          "name": "items",
+          "label": "Dawn of Defiance",
+          "path": "/packs/items.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "sw5e"
+        },
+        {
+          "name": "journals",
+          "label": "Dawn of Defiance",
+          "path": "/packs/journals.db",
+          "entity": "JournalEntry",
+          "type": "JournalEntry"
+        },
+        {
+          "name": "macros",
+          "label": "Dawn of Defiance",
+          "path": "/packs/macros.db",
+          "entity": "Macro",
+          "type": "Macro"
+        },
+        {
+          "name": "maps",
+          "label": "Dawn of Defiance",
+          "path": "/packs/maps.db",
+          "entity": "Scene",
+          "type": "Scene"
+        },
+        {
+          "name": "playlists",
+          "label": "Dawn of Defiance",
+          "path": "/packs/playlists.db",
+          "entity": "Playlist",
+          "type": "Playlist"
+        },
+        {
+          "name": "rolltables",
+          "label": "Dawn of Defiance",
+          "path": "/packs/rolltables.db",
+          "entity": "RollTable",
+          "type": "RollTable"
+        }
+      ],
     "manifest": "https://raw.githubusercontent.com/Jvovillia/dawnofdefiance/main/module.json",
     "download": "https://wellnessfamilycounseling.com/wp-content/uploads/2024/04/dawnofdefiance.zip"
 }
