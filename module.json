@@ -12,16 +12,6 @@
             "name": "Fantasy Flight Games"
         }
     ],
-    "systems": [
-        {
-            "id": "sw5e",
-            "type": "system",
-            "compatibility": {
-                "minimum": "2.3.1.2.6.1",
-                "verified": "2.3.1.2.6.1"
-            }
-        }
-    ],
     "packs": [
         {
           "name": "actors",
