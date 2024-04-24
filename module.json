@@ -63,7 +63,7 @@
         {
           "name": "maps",
           "label": "Dawn of Defiance",
-          "path": "/packs/maps.db",
+          "path": "/packs/scenes.db",
           "entity": "Scene",
           "type": "Scene"
         },
@@ -77,7 +77,7 @@
         {
           "name": "rolltables",
           "label": "Dawn of Defiance",
-          "path": "/packs/rolltables.db",
+          "path": "/packs/tables.db",
           "entity": "RollTable",
           "type": "RollTable"
         }
